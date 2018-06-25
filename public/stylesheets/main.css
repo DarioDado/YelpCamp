@@ -1,0 +1,60 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.delete-form {
+    display: inline;
+}
+
+.form-header {
+    text-align: center;
+}
+
+.form-center {
+    width: 50%;
+    margin: 25px auto;
+}
+
+.display-flex {
+    display: flex; 
+    flex-wrap: wrap;
+}
+
+#map {
+    height: 300px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.profile-info {
+    text-align: center;
+}
+
+.thumbnail .profile-image {
+    width: 300px;
+}
+
+.profile-thumbnail {
+    border: none;
+}
+
+.profile-bio {
+    padding: 0 20px;
+}
+#profile-button {
+    margin-left: 20px;
+}
+
+.info {
+    background-color: #EDEDEE;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
